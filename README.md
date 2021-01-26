@@ -14,7 +14,8 @@ clone onto computer: git clone https://github.com/hernandezb3/progR.git
 git add temporarily stores changes and multiple adds can be made before actually committing
 - committing creates a snapshot of the changes: git commit -m "message"
 - to push up to github: git push
-- to push on a particular branch: git push origin readme-edits
+- to change branches: checkout *branch name*
+- to merge with a branch main branch: git merge *branch name*
 
 
 in RStudio:
