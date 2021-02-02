@@ -23,3 +23,9 @@ File > New Project > Version Control > Git >
 Repository URL: https://github.com/hernandezb3/progR.git
 Create project as a subdirectory of: enter file location (e.g., Dropbox path)
 Create Project
+
+resources:
+https://happygitwithr.com/rstudio-git-github.html
+https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
+https://rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/
+
